@@ -1,0 +1,4 @@
+﻿  ela010task2.c
+c:\users\charlie\source\repos\ela010task\ela010task2\ela010task2.c(11): warning C4101: 'p': unreferenced local variable
+  ela010task2.vcxproj -> C:\Users\Charlie\Source\Repos\ela010task\ela010task2\Debug\ela010task2.exe
+  ela010task2.vcxproj -> C:\Users\Charlie\Source\Repos\ela010task\ela010task2\Debug\ela010task2.pdb (Full PDB)
